@@ -4,10 +4,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-src/main/java/com/trafficoptimization/traffic_management/model/
-src/main/java/com/trafficoptimization/traffic_management/repository/
-src/main/java/com/trafficoptimization/traffic_management/service/
-
 ### STS ###
 .apt_generated
 .classpath
